@@ -6,5 +6,6 @@ public class User {
         System.out.println("123");
         System.out.println("456");
         System.out.println("798");
+        System.out.println("0000000");
     }
 }
